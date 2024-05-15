@@ -12,6 +12,9 @@ REPL	;	_	003b	_
 REPL	?	_	003f	_
 REPL	“	_	201c	_
 REPL	”	_	201d	_
+REPL	‘	'
+REPL	`	'
+REPL	ʼ	'
 NORM	´	'	00b4	0027
 ALLOW	a	_	0061	_
 ALLOW	á	_	00e1	_

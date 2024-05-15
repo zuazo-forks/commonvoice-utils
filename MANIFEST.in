@@ -137,6 +137,8 @@ include cvutils/data/lo/alphabet.txt
 include cvutils/data/pt
 include cvutils/data/pt/alphabet.txt
 include cvutils/data/pt/validate.tsv
+include cvutils/data/pt/punct.tsv
+include cvutils/data/pt/abbr.tsv
 include cvutils/data/pt/vocab.tsv
 include cvutils/data/ky
 include cvutils/data/ky/alphabet.txt
